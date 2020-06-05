@@ -9,9 +9,9 @@ be edited as you want.
 
 paths.xml
 
-Are virtual paths where you want to copy files with whatch copy project (repository) founded by network search engine
+Are virtual paths where you want to copy files with WHATCH COPY project (repository) founded by network search engine
 
-and indexed by whatch folder indexing project (repository).
+and indexed by WHATCH FOLDER INDEXING project (repository).
 
 configure.xml
 
