@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<conf>
+  <FileName>c:\temp\list.txt</FileName>
+  <TempFile>c:\temp\tmplist.txt</TempFile>
+  <LogFile>c:\temp\log.txt</LogFile>
+</conf>

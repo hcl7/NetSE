@@ -1,0 +1,86 @@
+body {
+	font-family: "Trebuchet MS", "Helvetica", "Arial",  "Verdana", "sans-serif";
+	font-size: 62.5%;
+}
+.pafap_search_content
+{
+	display:block;
+	border:0 solid #999;
+	border-width:0 1px;
+	background:#FFFFFF;
+	color:#000000;
+	padding:37px;
+}
+.pafap_search_content_result
+{
+	display:block;
+	border:0 solid #999;
+	border-width:0 1px;
+	background:#FFFFFF;
+	color:#000000;
+	padding:37px;
+}
+#pafap_search_container 
+{
+	background: #FFFFFF; 
+	margin:70px;
+	width:700px;
+}
+#pafap_search_results 
+{
+	background: #FFFFFF; 
+	margin:0px;
+	width:100%;
+}
+.pafap_search_top, .pafap_search_bottom 
+{
+	display:block;
+	background:#FFFFFF; 
+	font-size:1px;
+}
+.pafap_search_bottom_result
+{
+	display:block;
+	background:#FFFFFF; 
+	font-size:1px;
+}
+.pafap_search_b1, .pafap_search_b2, .pafap_search_b3, .pafap_search_b4, .pafap_search_b5
+{
+	display:block;
+	overflow:hidden;
+	height:1px;
+	background:#FFFFFF;
+	border-left:1px solid #999;
+	border-right:1px solid #999;
+}
+.pafap_search_b1 
+{
+	margin:0 5px;
+	background-color: #999;
+}
+.pafap_search_b2 
+{
+	margin:0 3px; 
+	border-width:0 2px;
+}
+.pafap_search_b3 
+{
+	margin:0 2px;
+}
+.pafap_search_b4 
+{
+	height:2px; 
+	margin:0 1px;
+}
+.pafap_search_b5
+{
+    height:0px;
+    margin:0 0px;
+    border-width:0 2px;
+}
+.body_image
+{
+    background-image:url('/images/horizont.png');
+    background-repeat:no-repeat;
+    background-position:top;
+}

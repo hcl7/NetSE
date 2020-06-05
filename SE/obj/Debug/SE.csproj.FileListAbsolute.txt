@@ -1,0 +1,9 @@
+E:\projects\WebAppSE\SE\SE\bin\SE.dll
+E:\projects\WebAppSE\SE\SE\bin\SE.pdb
+E:\projects\WebAppSE\SE\SE\obj\Debug\ResolveAssemblyReference.cache
+E:\projects\WebAppSE\SE\SE\obj\Debug\SE.dll
+E:\projects\WebAppSE\SE\SE\obj\Debug\SE.pdb
+C:\Projects\WebAppSE\SE\bin\SE.dll
+C:\Projects\WebAppSE\SE\bin\SE.pdb
+C:\Projects\WebAppSE\SE\obj\Debug\SE.dll
+C:\Projects\WebAppSE\SE\obj\Debug\SE.pdb

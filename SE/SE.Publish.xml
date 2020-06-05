@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\seven\Desktop\work\SE" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="SE" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="04/20/2013 14:24:10" />
+    <file relUrl="css/pafap_info.css" publishTime="07/20/2011 14:40:31" />
+    <file relUrl="images/digitalb.jpg" publishTime="12/01/2010 11:54:26" />
+    <file relUrl="bin/SE.pdb" publishTime="04/20/2013 14:24:21" />
+    <file relUrl="controls/configure.xml" publishTime="07/20/2011 12:53:19" />
+    <file relUrl="images/horizont.PNG" publishTime="12/30/2010 14:01:32" />
+    <file relUrl="images/LOGOSMALL.png" publishTime="04/25/2011 11:32:40" />
+    <file relUrl="css/pafap_index.css" publishTime="03/07/2011 11:47:16" />
+    <file relUrl="css/pafap_instant.css" publishTime="11/23/2010 13:52:32" />
+    <file relUrl="js/functions.js" publishTime="07/21/2011 09:49:02" />
+    <file relUrl="controls/Results.ascx" publishTime="03/14/2011 14:58:16" />
+    <file relUrl="bin/SE.dll" publishTime="04/20/2013 14:24:21" />
+    <file relUrl="css/pafap_paging.css" publishTime="03/15/2011 14:59:08" />
+    <file relUrl="controls/paths.xml" publishTime="03/28/2011 09:54:55" />
+    <file relUrl="images/LOGO.png" publishTime="04/25/2011 11:32:51" />
+    <file relUrl="index.aspx" publishTime="07/20/2011 12:49:40" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,27 @@
+#q {
+	max-width:700px;
+}
+
+#results {
+	border: 0px solid #777;
+	border-bottom: 0px;
+	font-size: 10px;
+	font-family: arial;
+	padding: 0px;
+	display: none;
+}
+
+#results div {
+    border-bottom: 0px solid #777;
+    padding: 3px;
+}
+
+#results .selected {
+	background-color: #777;
+	color: #fff;
+}
+
+#results .unselected {
+	background-color: #fff;
+	color: #777;
+}

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<conf>
+  <ResultPerPage>3</ResultPerPage>
+  <FileName>c:\\temp\\list.txt</FileName>
+  <LogFile>c:\\temp\\log.txt</LogFile>
+</conf>

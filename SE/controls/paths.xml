@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Channels>
+  <channel>
+    <path>\\path1\share</path>
+    <Name>path1</Name>
+  </channel>
+  <channel>
+    <path>\\path2\share</path>
+    <Name>path2</Name>
+  </channel>
+  <channel>
+    <path>\\path3\share</path>
+    <Name>path3</Name>
+  </channel>
+  <channel>
+    <path>\\path4\share</path>
+    <Name>path4</Name>
+  </channel>
+  <channel>
+    <path>\\path5\share</path>
+    <Name>path5</Name>
+  </channel>
+  <channel>
+    <path>\\path6\share</path>
+    <Name>path6</Name>
+  </channel>
+  <channel>
+    <path>\\path7\share</path>
+    <Name>path7</Name>
+  </channel>
+  <channel>
+    <path>\\path8\share</path>
+    <Name>path8</Name>
+  </channel>
+</Channels>

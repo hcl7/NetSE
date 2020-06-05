@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Channels>
+  <channel>
+    <path>\\playserver\DigiAutor</path>
+    <Name>DigiAutor</Name>
+  </channel>
+  <channel>
+    <path>\\playserver\Premiere</path>
+    <Name>Hits</Name>
+  </channel>
+  <channel>
+    <path>\\playserver\Digitalb5</path>
+    <Name>Thriller</Name>
+  </channel>
+  <channel>
+    <path>\\playserver\Digitalb6</path>
+    <Name>Drame</Name>
+  </channel>
+  <channel>
+    <path>\\playserver\Digitalb8</path>
+    <Name>Komedi</Name>
+  </channel>
+  <channel>
+    <path>\\playserver2\BangBang</path>
+    <Name>BangBang</Name>
+  </channel>
+  <channel>
+    <path>\\playserver2\Cufo</path>
+    <Name>Cufo</Name>
+  </channel>
+  <channel>
+    <path>\\playserver2\Explorer</path>
+    <Name>Exp-Shkence</Name>
+  </channel>
+  <channel>
+    <path>\\playserver\Explorer2</path>
+    <Name>Exp-Histori</Name>
+  </channel>
+  <channel>
+    <path>\\playserver2\Explorer3</path>
+    <Name>Exp-Natyre</Name>
+  </channel>
+  <channel>
+    <path>\\playserver2\TShqip</path>
+    <Name>T-Shqip</Name>
+  </channel>
+</Channels>
